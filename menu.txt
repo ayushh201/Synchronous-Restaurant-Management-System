@@ -1,0 +1,6 @@
+1 Burger 5 10
+2 Pizza 10 15
+3 Pasta 7 12
+4 Salad 3 5
+5 Sandwich 6 8
+6 Coffee 2 4
